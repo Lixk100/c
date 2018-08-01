@@ -1,0 +1,6 @@
+#include<stdio>
+main()
+{
+  printf("Hello World!");
+}
+//入门  相当基础
